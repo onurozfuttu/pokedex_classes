@@ -1,5 +1,3 @@
-// Write your code below 🤾‍♂️ 
-
 class Pokemon{
   var num = 0
   var name = ""
